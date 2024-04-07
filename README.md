@@ -23,7 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameeer-Ahmad&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameeer-Ahmad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Sameeer-Ahmad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
